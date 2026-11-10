@@ -60,7 +60,7 @@ The PNG is ready for README display and portfolio upload. The SVG is an editable
 
 ## About Mobile App Developer
 
-[Mobile App Developer](https://mobile-appdeveloper.com/) is a small remote team of developers, designers, and testers based in India, building Android, iPhone, and Flutter apps for businesses in the USA, Australia, and India.
+[Mobile App Developer](https://mobile-appdeveloper.com) is a small remote team of developers, designers, and testers based in India, building Android, iPhone, and Flutter apps for businesses in the USA, Australia, and India.
 
 ## Publishing
 
@@ -69,12 +69,4 @@ Upload these files at the root of a public GitHub repository. To host the demo, 
 ## Licensing
 
 No open-source license has been selected for this package. Before public release, the repository owner should choose a license if they want to grant reuse rights. Public visibility alone is not an open-source license.
-
-## Actual demo screenshots
-
-These screenshots were captured from this sample browser application with its initial fictional data.
-
-![Desktop demo workspace](desktop-demo-screenshot.png)
-
-[View the mobile demo screenshot](mobile-demo-screenshot.png)
 
