@@ -60,7 +60,7 @@ The PNG is ready for README display and portfolio upload. The SVG is an editable
 
 ## About Mobile App Developer
 
-[Mobile App Developer](https://mobileapp-developer.com) is a small remote team of developers, designers, and testers based in India, building Android, iPhone, and Flutter apps for businesses in the USA, Australia, and India.
+[Mobile App Developer](https://mobile-appdeveloper.com/) is a small remote team of developers, designers, and testers based in India, building Android, iPhone, and Flutter apps for businesses in the USA, Australia, and India.
 
 ## Publishing
 
